@@ -25,7 +25,7 @@
 
  * O projeto também conta com um protótipo de Arduino com sensores de temperatura e umidade, para o monitoramento de armazéns e meios de transporte de alimentos e componentes agrícolas, desenvolvido pela nossa equipe.
 
- <h3>Desafio:
+ <h3>Desafio:</h3>
 
  * Encontrar meios de baratiar o protótipo fisico para garantir com que seje mais acssecivel para o publico, visando que quanto mais produtores e empresas utilizarem nossos recursos, menor o desperdicio de alimentos.
 
