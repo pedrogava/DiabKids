@@ -1,30 +1,36 @@
-<h1 align="center"> Fiware Smart Traffic Light! </h1>
+<h1 align="center"> DiabKids! </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-em%20Desenvolvimento-green"/>
 </p>
 <p align="center">
-<img src="https://github.com/pedrogava/EDGE_COMPUTING/assets/126473513/d1dcbde5-ca99-48df-b3da-a8a2e89c09ca"/>
+<img src="https://github.com/pedrogava/SustainTech/assets/126473513/78497bf7-146a-4b8c-b9bd-cecf54d3d1a9"/>
 </p>
 
 
 # Introduction
 
-## Definition of smart traffic lights:
-+ Smart traffic lights are traffic control systems based on advanced technology, such as sensors, cameras and communication systems, that are capable of monitoring traffic in real time and adapting signal duration to optimize traffic flow. These systems can be programmed to react to a variety of traffic situations, such as traffic jams, accidents, roadworks and special events, to ensure traffic flows smoothly and safely.
+## General Description of the Problem
++ The current challenge is to ensure a healthy life and promote well-being for all ages, especially in the context of diabetic children. The need for awareness and maturation of these children regarding their condition is crucial to ensure effective management of diabetes from childhood.
 
-## The importance for traffic:
-+ Smart traffic lights are important because they allow traffic control to be controlled more efficiently and safely, as well as being able to adapt to traffic conditions in real time. With these systems, it is possible to monitor the movement of vehicles and pedestrians and adjust the duration of traffic signals to optimize the flow of vehicles and reduce congestion.
+## Solution Proposal
++ ### DiabKids: Awareness and Maturation
+The proposed solution, called DiabKids, aims to develop a comprehensive platform that addresses awareness and maturation of diabetic children regarding their condition. The solution will consist of:
+### Interactive Website:
+An interactive website aimed at children, offering information about diabetes in a fun and educational way.
+Pointing system to encourage participation and continuous learning.
+### Points System:
+Implementation of a points system, where children accumulate points through active participation on the website, solving diabetes-related challenges and completing educational tasks.
+Points can be exchanged for rewards, encouraging healthy behavior and adherence to treatment.
+### Monitoring via IoT:
+Using IoT (Internet of Things) devices to constantly monitor children's glucose levels.
+Data is shared in real time with parents and the responsible doctor, allowing for more accurate and immediate monitoring of health status.
 
 
 
 # 📁 Essential resources
 
 ## FIWARE
-
-<p align="center">
-<img src="https://github.com/pedrogava/EDGE_COMPUTING/assets/126473513/e8bee338-fa0c-4ffb-9d9c-a11e9f50d06d"/>
-</p>
 
 + ## Software Requirements
 
@@ -81,19 +87,20 @@ Click <a href="https://github.com/pedrogava/EDGE_COMPUTING/blob/main/FIWARE.post
 
 ### Hardware Requirements:
 
-- ESP2866
+- ESP32
+- LCD I2C
+- CGM
+- 3 LEDs (green, yellow and red)
 - WIFI conection
+- Click <a href="https://github.com/pedrogava/EDGE_COMPUTING/blob/main/FIWARE.postman_collection.json"> here </a> to see the simulation of a prototype on the wokwi
+
 <h4 align="center"> 
     🚧 Prototype under construction 🚧
 </h4>
 
-# Authors:
-
-Rm 98501 - Kauê Pastori - Turma ESPV 
+# Authors: 
 
 Rm 551445 - Pedro Oliveira Valotto
-
-Rm 551965 - Nicolas Boni
 
 Rm 551043 - Pedro Gava
 
