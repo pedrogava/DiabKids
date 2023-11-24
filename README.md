@@ -98,6 +98,13 @@ Click <a href="https://github.com/pedrogava/EDGE_COMPUTING/blob/main/FIWARE.post
     🚧 Prototype under construction 🚧
 </h4>
 
+# Links
+
+-  Wokwi: https://wokwi.com/projects/381957492268331009
+
+- Video explicativo no youtube: https://youtu.be/-N5gnUgwk3A
+
+
 # Authors: 
 
 Rm 551445 - Pedro Oliveira Valotto
